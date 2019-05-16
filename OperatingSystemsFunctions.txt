@@ -1,0 +1,1 @@
+One function of operating systems is Searching. Searching allows you to search for whatever you're looking for. Whether it be applications, files, or other things on your computer.
