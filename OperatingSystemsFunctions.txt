@@ -1,2 +1,3 @@
 One function of operating systems is Searching. Searching allows you to search for whatever you're looking for. Whether it be applications, files, or other things on your computer.
 Another function of operating systems is the command function. For Windows, Command Prompt allows you to type commands for your computer to follow. Some commands allow you to view info on your computer, others can change how your computer works.
+One other function of operating systems is a file exploring. Windows has the application File Explorer to see all files you've created, downloaded, copied, or that came installeed by default. File exploring is necessary for all computers because all computers use these files to operate or use other files to open certain applications.
